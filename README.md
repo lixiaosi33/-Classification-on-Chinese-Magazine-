@@ -14,6 +14,7 @@ http://blog.csdn.net/qq_33232071/article/details/50829588
 - 3_sklearn 为项目的baseline,特征工程+朴素贝叶斯
 - 4_cnn 为卷积神经网络的文本分类(调参很久，未得到好结果)
 - 5_rnn 为卷积神经网络的文本分类(结果优于baseline)
-- 
+
+--------------------------------------------------------------
 
 整个项目参考http://webcourse.cs.technion.ac.il/232601/Spring2016/en/ho.html     ( Israel Institute of Technology的课程内容)
