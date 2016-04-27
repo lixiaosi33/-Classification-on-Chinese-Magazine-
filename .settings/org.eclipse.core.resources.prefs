@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//1_dataclean/data_crush.py=utf-8
+encoding//1_dataclean/data_tune.py=utf-8
+encoding//1_dataclean/dataclean.py=utf-8
+encoding//1_dataclean/dataclean_p.py=utf-8
+encoding//2_word2vec/merge_data.py=utf-8
+encoding//2_word2vec/model_test.py=utf-8
+encoding//2_word2vec/new_test.py=utf-8
+encoding//2_word2vec/train_word2vec_model.py=utf-8
+encoding//4_cnn/cnn_clear.py=utf-8
+encoding//4_cnn/cnn_enbedding.py=utf-8
